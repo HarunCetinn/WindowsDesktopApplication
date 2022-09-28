@@ -1,0 +1,12 @@
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\bin\Debug\NotKayitSistemiProjesi.exe.config
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\bin\Debug\NotKayitSistemiProjesi.exe
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\bin\Debug\NotKayitSistemiProjesi.pdb
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.csprojAssemblyReference.cache
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.FrmGiriş.resources
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.FrmOgrenciDetay.resources
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.FrmOgretmenDetay.resources
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.Properties.Resources.resources
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.csproj.GenerateResource.cache
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.exe
+C:\Users\ebedi\source\repos\NotKayitSistemiProjesi\NotKayitSistemiProjesi\obj\Debug\NotKayitSistemiProjesi.pdb
